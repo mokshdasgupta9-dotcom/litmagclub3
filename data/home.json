@@ -1,10 +1,10 @@
 {
-  "headline": "[Headline: the first line visitors read]",
-  "valueProp": "[Value proposition: what the club offers to writers, artists and readers, in 1 to 3 sentences]",
+  "headline": "Welcome to the HSN Literary Magazine",
+  "valueProp": "We work with HSN students to refine creative techniques, and publish a magazine at the end of each year.",
   "pillars": [
-    { "title": "[Pillar 1 title]", "text": "[1 to 2 sentences]" },
-    { "title": "[Pillar 2 title]", "text": "[1 to 2 sentences]" },
-    { "title": "[Pillar 3 title]", "text": "[1 to 2 sentences]" }
+    { "title": "Creativity.", "text": "You don't need to be good at writing. If you have ideas and a soul, we'll help you put them onto the paper." },
+    { "title": "Visibility.", "text": "If you continue to attend meetings and improve your craft, your work will be featured in ours (and your) magazine." },
+    { "title": "Community.", "text": "Creating by yourself is never as fun as creating with others. Join us and find like-minded people!" }
   ],
-  "vibe": "[A closing line that captures the spirit of the club]"
+  "vibe": "We are ecstatic to have you!"
 }
