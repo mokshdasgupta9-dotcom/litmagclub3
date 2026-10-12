@@ -1,0 +1,10 @@
+{
+  "headline": "[Headline: the first line visitors read]",
+  "valueProp": "[Value proposition: what the club offers to writers, artists and readers, in 1 to 3 sentences]",
+  "pillars": [
+    { "title": "[Pillar 1 title]", "text": "[1 to 2 sentences]" },
+    { "title": "[Pillar 2 title]", "text": "[1 to 2 sentences]" },
+    { "title": "[Pillar 3 title]", "text": "[1 to 2 sentences]" }
+  ],
+  "vibe": "[A closing line that captures the spirit of the club]"
+}
