@@ -1,6 +1,7 @@
 [
-  { "name": "[Officer 1 name]", "about": "[About me: 3 to 5 sentences]" },
-  { "name": "[Officer 2 name]", "about": "[About me: 3 to 5 sentences]" },
-  { "name": "[Officer 3 name]", "about": "[About me: 3 to 5 sentences]" },
-  { "name": "[Officer 4 name]", "about": "[About me: 3 to 5 sentences]" }
+  { "name": "Mr. Maziarz: Advisor", "about": "[About me: 3 to 5 sentences]" },
+  { "name": "Emma Peppler: President", "about": "[About me: 3 to 5 sentences]" },
+  { "name": "Benjamin Tai: Co-President", "about": "[About me: 3 to 5 sentences]" },
+  { "name": "Moksh Dasgupta: Head of Outreach", "about": "[About me: 3 to 5 sentences]" }
+  { "name": "Naivedya Gupta: Representative", "about": "[About me: 3 to 5 sentences]" }
 ]
